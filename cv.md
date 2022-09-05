@@ -3,6 +3,7 @@
 - Discord: ravelin9
 - E-mail: kvist1495@gmail.com
 - Tel: +7 (999) 446-06-97
+- 
 ## About myself:
 I want to learn Front-End Development in RSSchool!
 
@@ -28,11 +29,13 @@ text = text.toLowerCase()
 - **Siberian Federal University**
   *Specialist degree in Electronic locating and targeting system*
   ***
+  
 - https://learn.javascript.ru/
 - https://ru.code-basics.com/
 - https://metanit.com/web/
 - https://code.mu/
 - Youtube
+- 
 ## Language:
 - Russian level - **native**
 - English level - **B1**
